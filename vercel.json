@@ -1,0 +1,9 @@
+{
+  "devCommand": "npm run framework-dev",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
